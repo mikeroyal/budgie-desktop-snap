@@ -4,7 +4,7 @@
   Budgie Desktop
 </h1>
 
-<p align="center"><b>This is the snap for Budgie Desktop, a feature-rich, modern desktop designed to keep out the way of the user. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+This is the snap for [Budgie Desktop](https://getsol.us/solus/experiences/), a feature-rich, modern desktop designed to keep out the way of the user. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
