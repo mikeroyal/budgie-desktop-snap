@@ -12,7 +12,7 @@ This is the snap for [Budgie Desktop](https://getsol.us/solus/experiences/), a f
 </p>
 -->
 
-![my-snap-name](https://user-images.githubusercontent.com/45159366/52110774-88265580-25b6-11e9-9b1c-6550b3d1cfcf.png?raw=true "my-snap-name")
+![budgie-desktop](https://user-images.githubusercontent.com/45159366/52110774-88265580-25b6-11e9-9b1c-6550b3d1cfcf.png?raw=true "budgie-desktop")
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
