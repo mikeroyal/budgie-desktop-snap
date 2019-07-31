@@ -1,10 +1,8 @@
 name: budgie-desktop
-version: 10.4
+version: 10.5
 summary: Budgie Desktop Environment. 
 description: a feature-rich, modern desktop designed to keep out the way of the user.
   
-adopt-info: devmode # use 'strict' once you have the right plugs and slots
-
 grade: stable
 confinement: devmode
 
